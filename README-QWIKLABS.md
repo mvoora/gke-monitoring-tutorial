@@ -68,7 +68,7 @@ for multiple platforms are available online.
 Terraform is used to automate the manipulation of cloud infrastructure. Its
 [installation instructions](https://www.terraform.io/intro/getting-started/install.html) are also available online.
 
-### Configure Authentication
+#### Configure Authentication
 
 The Terraform configuration will execute against your GCP environment and create a Kubernetes Engine cluster running a simple application.  The configuration will use your personal account to build out these resources.  To setup the default account the configuration will use, run the following command to select the appropriate account:
 
